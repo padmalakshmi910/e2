@@ -261,4 +261,5 @@ print(f"Actual Class: {actual_class_label}")
 ![alt text](<Screenshot 2026-07-30 213256.png>)
 
 ## RESULT
-Include your result here
+
+The neural network model was trained successfully and customer segments were predicted.
